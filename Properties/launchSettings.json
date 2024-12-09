@@ -2,7 +2,7 @@
   "profiles": {
     "SimpleHttpFunction": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7108",
+      "commandLineArgs": "--port 7153",
       "launchBrowser": false
     }
   }
